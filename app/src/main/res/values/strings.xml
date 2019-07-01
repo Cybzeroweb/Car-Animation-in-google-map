@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CarAnimation</string>
+    <string name="title_activity_maps">GeoMap</string>
+    <string name="google_direction_key">AIzaSyBke_c2o2jXzA8mrQigSpAVaBe48etcFyw</string>
+</resources>
